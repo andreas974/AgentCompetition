@@ -1,0 +1,182 @@
+2016-04-27 14:17:07,622 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Started ContinuousCompetitionFirmScreen for client client2 in cohort 1 with diffParam = 0.6666666666666666, discreteTreatment = false, practiceRound = true, myRole = Firma B
+2016-04-27 14:17:07,727 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreen - Initialized CartDisplayPanel: timestep:  500, tduration: 1800000, t_mid_window: 150000, t_hatch: 15000, t_startLastWindow: 1650000
+2016-04-27 14:17:07,811 CLIENT MessageDeliveryThread WARN  client.ContinuousCompetitionFirmScreenQuadropoly - Local state of profit variables after initial market update: aFirmA: profitFirmA: 0.0, profitFirmB: 0.0, profitFirmC: 0.0, profitFirmD
+2016-04-27 14:17:18,435 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 0 and time 0 in round 0 - pFirmB: 69.
+2016-04-27 14:17:18,436 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 0 before price update: pFirmA 0, pFirmB 69, pFirmC 0, pFirmD 0.
+2016-04-27 14:17:22,519 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Started ContinuousCompetitionFirmScreen for client client2 in cohort 2 with diffParam = 0.6666666666666666, discreteTreatment = false, practiceRound = false, myRole = Firma B
+2016-04-27 14:17:22,523 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreen - Initialized CartDisplayPanel: timestep:  500, tduration: 1800000, t_mid_window: 150000, t_hatch: 15000, t_startLastWindow: 1650000
+2016-04-27 14:17:22,632 CLIENT MessageDeliveryThread WARN  client.ContinuousCompetitionFirmScreenQuadropoly - Local state of profit variables after initial market update: aFirmA: profitFirmA: 18.784722222222218, profitFirmB: 47.62916666666667, profitFirmC: 34.53333333333333, profitFirmD
+2016-04-27 14:17:22,638 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firma B: sending ready message to server.
+2016-04-27 14:17:22,671 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 0 and globalTime 0 in cohort 2
+2016-04-27 14:17:22,672 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 25 pFirmB: 69, pFirmC: 48, pFirmD: 25 pMarket: 41.75
+2016-04-27 14:17:22,675 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 (role: Firma B) in cohort 2 also received start flag - starting timer.
+2016-04-27 14:17:23,182 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 0 and time 0 in round 0 - pFirmB: 69.
+2016-04-27 14:17:23,183 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 0 before price update: pFirmA 25, pFirmB 69, pFirmC 48, pFirmD 25.
+2016-04-27 14:17:23,185 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 0 to 500. Duration is set to: 1800000
+2016-04-27 14:17:23,330 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 0 and globalTime 0 in cohort 2
+2016-04-27 14:17:23,330 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 41 pFirmB: 69, pFirmC: 48, pFirmD: 41 pMarket: 49.75
+2016-04-27 14:17:23,687 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 1 and time 500 in round 1 - pFirmB: 69.
+2016-04-27 14:17:23,688 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 1 before price update: pFirmA 41, pFirmB 69, pFirmC 48, pFirmD 41.
+2016-04-27 14:17:23,690 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 500 to 1000. Duration is set to: 1800000
+2016-04-27 14:17:23,836 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 1 and globalTime 500 in cohort 2
+2016-04-27 14:17:23,837 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 49 pFirmB: 69, pFirmC: 48, pFirmD: 49 pMarket: 53.75
+2016-04-27 14:17:24,190 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 2 and time 1000 in round 2 - pFirmB: 69.
+2016-04-27 14:17:24,190 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 2 before price update: pFirmA 49, pFirmB 69, pFirmC 48, pFirmD 49.
+2016-04-27 14:17:24,192 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 1000 to 1500. Duration is set to: 1800000
+2016-04-27 14:17:24,345 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 2 and globalTime 1000 in cohort 2
+2016-04-27 14:17:24,346 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 53 pFirmB: 69, pFirmC: 48, pFirmD: 53 pMarket: 55.75
+2016-04-27 14:17:24,695 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 3 and time 1500 in round 3 - pFirmB: 69.
+2016-04-27 14:17:24,695 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 3 before price update: pFirmA 53, pFirmB 69, pFirmC 48, pFirmD 53.
+2016-04-27 14:17:24,698 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 1500 to 2000. Duration is set to: 1800000
+2016-04-27 14:17:24,844 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 3 and globalTime 1500 in cohort 2
+2016-04-27 14:17:24,844 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 55 pFirmB: 69, pFirmC: 48, pFirmD: 55 pMarket: 56.75
+2016-04-27 14:17:25,199 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 4 and time 2000 in round 4 - pFirmB: 69.
+2016-04-27 14:17:25,199 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 4 before price update: pFirmA 55, pFirmB 69, pFirmC 48, pFirmD 55.
+2016-04-27 14:17:25,202 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 2000 to 2500. Duration is set to: 1800000
+2016-04-27 14:17:25,350 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 4 and globalTime 2000 in cohort 2
+2016-04-27 14:17:25,350 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 56 pFirmB: 69, pFirmC: 48, pFirmD: 56 pMarket: 57.25
+2016-04-27 14:17:25,702 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 5 and time 2500 in round 5 - pFirmB: 69.
+2016-04-27 14:17:25,703 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 5 before price update: pFirmA 56, pFirmB 69, pFirmC 48, pFirmD 56.
+2016-04-27 14:17:25,707 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 2500 to 3000. Duration is set to: 1800000
+2016-04-27 14:17:25,874 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 5 and globalTime 2500 in cohort 2
+2016-04-27 14:17:25,876 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 57 pFirmB: 69, pFirmC: 48, pFirmD: 57 pMarket: 57.75
+2016-04-27 14:17:26,207 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 6 and time 3000 in round 6 - pFirmB: 69.
+2016-04-27 14:17:26,207 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 6 before price update: pFirmA 57, pFirmB 69, pFirmC 48, pFirmD 57.
+2016-04-27 14:17:26,209 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 3000 to 3500. Duration is set to: 1800000
+2016-04-27 14:17:26,352 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 6 and globalTime 3000 in cohort 2
+2016-04-27 14:17:26,353 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 57 pFirmB: 69, pFirmC: 48, pFirmD: 57 pMarket: 57.75
+2016-04-27 14:17:26,711 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 7 and time 3500 in round 7 - pFirmB: 69.
+2016-04-27 14:17:26,711 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 7 before price update: pFirmA 57, pFirmB 69, pFirmC 48, pFirmD 57.
+2016-04-27 14:17:26,713 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 3500 to 4000. Duration is set to: 1800000
+2016-04-27 14:17:26,940 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 7 and globalTime 3500 in cohort 2
+2016-04-27 14:17:26,941 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 57 pFirmB: 69, pFirmC: 48, pFirmD: 57 pMarket: 57.75
+2016-04-27 14:17:27,215 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 8 and time 4000 in round 8 - pFirmB: 69.
+2016-04-27 14:17:27,216 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 8 before price update: pFirmA 57, pFirmB 69, pFirmC 48, pFirmD 57.
+2016-04-27 14:17:27,218 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 4000 to 4500. Duration is set to: 1800000
+2016-04-27 14:17:27,386 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 8 and globalTime 4000 in cohort 2
+2016-04-27 14:17:27,386 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 57 pFirmB: 69, pFirmC: 48, pFirmD: 57 pMarket: 57.75
+2016-04-27 14:17:27,720 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 9 and time 4500 in round 9 - pFirmB: 69.
+2016-04-27 14:17:27,721 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 9 before price update: pFirmA 57, pFirmB 69, pFirmC 48, pFirmD 57.
+2016-04-27 14:17:27,724 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 4500 to 5000. Duration is set to: 1800000
+2016-04-27 14:17:27,894 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 9 and globalTime 4500 in cohort 2
+2016-04-27 14:17:27,895 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 57 pFirmB: 69, pFirmC: 53, pFirmD: 57 pMarket: 59.0
+2016-04-27 14:17:28,222 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 10 and time 5000 in round 10 - pFirmB: 69.
+2016-04-27 14:17:28,223 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 10 before price update: pFirmA 57, pFirmB 69, pFirmC 53, pFirmD 57.
+2016-04-27 14:17:28,224 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 5000 to 5500. Duration is set to: 1800000
+2016-04-27 14:17:28,389 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 10 and globalTime 5000 in cohort 2
+2016-04-27 14:17:28,390 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 59 pFirmB: 69, pFirmC: 54, pFirmD: 59 pMarket: 60.25
+2016-04-27 14:17:28,726 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 11 and time 5500 in round 11 - pFirmB: 69.
+2016-04-27 14:17:28,726 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 11 before price update: pFirmA 59, pFirmB 69, pFirmC 54, pFirmD 59.
+2016-04-27 14:17:28,728 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 5500 to 6000. Duration is set to: 1800000
+2016-04-27 14:17:28,884 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 11 and globalTime 5500 in cohort 2
+2016-04-27 14:17:28,885 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 60 pFirmB: 69, pFirmC: 59, pFirmD: 60 pMarket: 62.0
+2016-04-27 14:17:29,230 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 12 and time 6000 in round 12 - pFirmB: 69.
+2016-04-27 14:17:29,230 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 12 before price update: pFirmA 60, pFirmB 69, pFirmC 59, pFirmD 60.
+2016-04-27 14:17:29,232 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 6000 to 6500. Duration is set to: 1800000
+2016-04-27 14:17:29,375 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 12 and globalTime 6000 in cohort 2
+2016-04-27 14:17:29,376 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 62 pFirmB: 69, pFirmC: 63, pFirmD: 62 pMarket: 64.0
+2016-04-27 14:17:29,732 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 13 and time 6500 in round 13 - pFirmB: 69.
+2016-04-27 14:17:29,733 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 13 before price update: pFirmA 62, pFirmB 69, pFirmC 63, pFirmD 62.
+2016-04-27 14:17:29,735 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 6500 to 7000. Duration is set to: 1800000
+2016-04-27 14:17:29,890 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 13 and globalTime 6500 in cohort 2
+2016-04-27 14:17:29,891 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 64 pFirmB: 69, pFirmC: 65, pFirmD: 64 pMarket: 65.5
+2016-04-27 14:17:30,236 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 14 and time 7000 in round 14 - pFirmB: 69.
+2016-04-27 14:17:30,237 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 14 before price update: pFirmA 64, pFirmB 69, pFirmC 65, pFirmD 64.
+2016-04-27 14:17:30,239 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 7000 to 7500. Duration is set to: 1800000
+2016-04-27 14:17:30,397 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 14 and globalTime 7000 in cohort 2
+2016-04-27 14:17:30,398 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 65 pFirmB: 69, pFirmC: 68, pFirmD: 65 pMarket: 66.75
+2016-04-27 14:17:30,741 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 15 and time 7500 in round 15 - pFirmB: 69.
+2016-04-27 14:17:30,742 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 15 before price update: pFirmA 65, pFirmB 69, pFirmC 68, pFirmD 65.
+2016-04-27 14:17:30,744 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 7500 to 8000. Duration is set to: 1800000
+2016-04-27 14:17:30,891 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 15 and globalTime 7500 in cohort 2
+2016-04-27 14:17:30,891 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 66 pFirmB: 69, pFirmC: 70, pFirmD: 66 pMarket: 67.75
+2016-04-27 14:17:31,245 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 16 and time 8000 in round 16 - pFirmB: 69.
+2016-04-27 14:17:31,246 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 16 before price update: pFirmA 66, pFirmB 69, pFirmC 70, pFirmD 66.
+2016-04-27 14:17:31,247 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 8000 to 8500. Duration is set to: 1800000
+2016-04-27 14:17:31,403 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 16 and globalTime 8000 in cohort 2
+2016-04-27 14:17:31,404 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 67 pFirmB: 69, pFirmC: 72, pFirmD: 67 pMarket: 68.75
+2016-04-27 14:17:31,750 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 17 and time 8500 in round 17 - pFirmB: 69.
+2016-04-27 14:17:31,751 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 17 before price update: pFirmA 67, pFirmB 69, pFirmC 72, pFirmD 67.
+2016-04-27 14:17:31,753 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 8500 to 9000. Duration is set to: 1800000
+2016-04-27 14:17:31,899 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 17 and globalTime 8500 in cohort 2
+2016-04-27 14:17:31,900 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 68 pFirmB: 69, pFirmC: 72, pFirmD: 68 pMarket: 69.25
+2016-04-27 14:17:32,255 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 18 and time 9000 in round 18 - pFirmB: 69.
+2016-04-27 14:17:32,255 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 18 before price update: pFirmA 68, pFirmB 69, pFirmC 72, pFirmD 68.
+2016-04-27 14:17:32,257 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 9000 to 9500. Duration is set to: 1800000
+2016-04-27 14:17:32,399 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 18 and globalTime 9000 in cohort 2
+2016-04-27 14:17:32,401 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 69 pFirmB: 69, pFirmC: 72, pFirmD: 69 pMarket: 69.75
+2016-04-27 14:17:32,760 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 19 and time 9500 in round 19 - pFirmB: 69.
+2016-04-27 14:17:32,761 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 19 before price update: pFirmA 69, pFirmB 69, pFirmC 72, pFirmD 69.
+2016-04-27 14:17:32,762 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 9500 to 10000. Duration is set to: 1800000
+2016-04-27 14:17:32,909 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 19 and globalTime 9500 in cohort 2
+2016-04-27 14:17:32,913 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 69 pFirmB: 69, pFirmC: 72, pFirmD: 69 pMarket: 69.75
+2016-04-27 14:17:33,263 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 20 and time 10000 in round 20 - pFirmB: 68.
+2016-04-27 14:17:33,263 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 20 before price update: pFirmA 69, pFirmB 68, pFirmC 72, pFirmD 69.
+2016-04-27 14:17:33,265 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 10000 to 10500. Duration is set to: 1800000
+2016-04-27 14:17:33,458 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 20 and globalTime 10000 in cohort 2
+2016-04-27 14:17:33,458 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 69 pFirmB: 68, pFirmC: 72, pFirmD: 69 pMarket: 69.5
+2016-04-27 14:17:33,767 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 21 and time 10500 in round 21 - pFirmB: 67.
+2016-04-27 14:17:33,768 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 21 before price update: pFirmA 69, pFirmB 67, pFirmC 72, pFirmD 69.
+2016-04-27 14:17:33,770 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 10500 to 11000. Duration is set to: 1800000
+2016-04-27 14:17:33,930 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 21 and globalTime 10500 in cohort 2
+2016-04-27 14:17:33,932 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 69 pFirmB: 67, pFirmC: 72, pFirmD: 69 pMarket: 69.25
+2016-04-27 14:17:34,272 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 22 and time 11000 in round 22 - pFirmB: 61.
+2016-04-27 14:17:34,272 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 22 before price update: pFirmA 69, pFirmB 61, pFirmC 72, pFirmD 69.
+2016-04-27 14:17:34,274 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 11000 to 11500. Duration is set to: 1800000
+2016-04-27 14:17:34,479 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 22 and globalTime 11000 in cohort 2
+2016-04-27 14:17:34,481 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 69 pFirmB: 61, pFirmC: 72, pFirmD: 69 pMarket: 67.75
+2016-04-27 14:17:34,775 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 23 and time 11500 in round 23 - pFirmB: 59.
+2016-04-27 14:17:34,775 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 23 before price update: pFirmA 69, pFirmB 59, pFirmC 72, pFirmD 69.
+2016-04-27 14:17:34,777 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 11500 to 12000. Duration is set to: 1800000
+2016-04-27 14:17:34,934 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 23 and globalTime 11500 in cohort 2
+2016-04-27 14:17:34,935 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 67 pFirmB: 59, pFirmC: 72, pFirmD: 67 pMarket: 66.25
+2016-04-27 14:17:35,282 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 24 and time 12000 in round 24 - pFirmB: 58.
+2016-04-27 14:17:35,282 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 24 before price update: pFirmA 67, pFirmB 58, pFirmC 72, pFirmD 67.
+2016-04-27 14:17:35,284 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 12000 to 12500. Duration is set to: 1800000
+2016-04-27 14:17:35,423 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 24 and globalTime 12000 in cohort 2
+2016-04-27 14:17:35,424 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 66 pFirmB: 58, pFirmC: 72, pFirmD: 66 pMarket: 65.5
+2016-04-27 14:17:35,783 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 25 and time 12500 in round 25 - pFirmB: 56.
+2016-04-27 14:17:35,783 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 25 before price update: pFirmA 66, pFirmB 56, pFirmC 72, pFirmD 66.
+2016-04-27 14:17:35,785 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 12500 to 13000. Duration is set to: 1800000
+2016-04-27 14:17:35,933 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 25 and globalTime 12500 in cohort 2
+2016-04-27 14:17:35,933 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 65 pFirmB: 56, pFirmC: 72, pFirmD: 65 pMarket: 64.5
+2016-04-27 14:17:36,287 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 26 and time 13000 in round 26 - pFirmB: 56.
+2016-04-27 14:17:36,288 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 26 before price update: pFirmA 65, pFirmB 56, pFirmC 72, pFirmD 65.
+2016-04-27 14:17:36,289 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 13000 to 13500. Duration is set to: 1800000
+2016-04-27 14:17:36,433 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 26 and globalTime 13000 in cohort 2
+2016-04-27 14:17:36,433 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 64 pFirmB: 56, pFirmC: 72, pFirmD: 64 pMarket: 64.0
+2016-04-27 14:17:36,793 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 27 and time 13500 in round 27 - pFirmB: 58.
+2016-04-27 14:17:36,793 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 27 before price update: pFirmA 64, pFirmB 58, pFirmC 72, pFirmD 64.
+2016-04-27 14:17:36,796 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 13500 to 14000. Duration is set to: 1800000
+2016-04-27 14:17:36,935 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 27 and globalTime 13500 in cohort 2
+2016-04-27 14:17:36,936 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 64 pFirmB: 58, pFirmC: 72, pFirmD: 64 pMarket: 64.5
+2016-04-27 14:17:37,296 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 28 and time 14000 in round 28 - pFirmB: 62.
+2016-04-27 14:17:37,297 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 28 before price update: pFirmA 64, pFirmB 62, pFirmC 72, pFirmD 64.
+2016-04-27 14:17:37,300 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 14000 to 14500. Duration is set to: 1800000
+2016-04-27 14:17:37,493 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 28 and globalTime 14000 in cohort 2
+2016-04-27 14:17:37,494 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 64 pFirmB: 62, pFirmC: 72, pFirmD: 64 pMarket: 65.5
+2016-04-27 14:17:37,801 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 29 and time 14500 in round 29 - pFirmB: 63.
+2016-04-27 14:17:37,802 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 29 before price update: pFirmA 64, pFirmB 63, pFirmC 72, pFirmD 64.
+2016-04-27 14:17:37,805 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 14500 to 15000. Duration is set to: 1800000
+2016-04-27 14:17:38,071 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 29 and globalTime 14500 in cohort 2
+2016-04-27 14:17:38,072 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 65 pFirmB: 63, pFirmC: 72, pFirmD: 65 pMarket: 66.25
+2016-04-27 14:17:38,305 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 30 and time 15000 in round 30 - pFirmB: 63.
+2016-04-27 14:17:38,306 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 30 before price update: pFirmA 65, pFirmB 63, pFirmC 72, pFirmD 65.
+2016-04-27 14:17:38,313 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 15000 to 15500. Duration is set to: 1800000
+2016-04-27 14:17:38,463 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 30 and globalTime 15000 in cohort 2
+2016-04-27 14:17:38,464 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 66 pFirmB: 63, pFirmC: 72, pFirmD: 66 pMarket: 66.75
+2016-04-27 14:17:38,810 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 31 and time 15500 in round 31 - pFirmB: 63.
+2016-04-27 14:17:38,810 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 31 before price update: pFirmA 66, pFirmB 63, pFirmC 72, pFirmD 66.
+2016-04-27 14:17:38,812 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 15500 to 16000. Duration is set to: 1800000
+2016-04-27 14:17:38,982 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 31 and globalTime 15500 in cohort 2
+2016-04-27 14:17:38,983 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 66 pFirmB: 63, pFirmC: 72, pFirmD: 66 pMarket: 66.75
+2016-04-27 14:17:39,314 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 32 and time 16000 in round 32 - pFirmB: 63.
+2016-04-27 14:17:39,314 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 32 before price update: pFirmA 66, pFirmB 63, pFirmC 72, pFirmD 66.
+2016-04-27 14:17:39,316 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 16000 to 16500. Duration is set to: 1800000
+2016-04-27 14:17:39,470 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 32 and globalTime 16000 in cohort 2
+2016-04-27 14:17:39,470 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 66 pFirmB: 63, pFirmC: 72, pFirmD: 66 pMarket: 66.75
+2016-04-27 14:17:39,818 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Firm B: Sending priceUpdate with countId 33 and time 16500 in round 33 - pFirmB: 63.
+2016-04-27 14:17:39,818 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Last state of local prices (sliders) in round 33 before price update: pFirmA 66, pFirmB 63, pFirmC 72, pFirmD 66.
+2016-04-27 14:17:39,820 AWT-EventQueue-0 INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Timer: Advanced local time from 16500 to 17000. Duration is set to: 1800000
+2016-04-27 14:17:39,962 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Recipient client2 received MarketUpdate with countId 33 and globalTime 16500 in cohort 2
+2016-04-27 14:17:39,963 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Updating local market variables: pFirmA: 66 pFirmB: 63, pFirmC: 72, pFirmD: 66 pMarket: 66.75

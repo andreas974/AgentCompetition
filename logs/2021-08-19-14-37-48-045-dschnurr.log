@@ -1,0 +1,3 @@
+2021-08-19 14:37:48,167 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreenQuadropoly - Started ContinuousCompetitionFirmScreen for client Client2 in cohort 27 with diffParam = 0.6666666666666666, discreteTreatment = false, practiceRound = true, myRole = Firma A
+2021-08-19 14:37:48,181 CLIENT MessageDeliveryThread INFO  client.ContinuousCompetitionFirmScreen - Initialized CartDisplayPanel: timestep:  500, tduration: 1800000, t_mid_window: 150000, t_hatch: 15000, t_startLastWindow: 1650000
+2021-08-19 14:37:48,266 CLIENT MessageDeliveryThread WARN  client.ContinuousCompetitionFirmScreenQuadropoly - Local state of profit variables after initial market update: aFirmA: profitFirmA: 0.0, profitFirmB: 0.0, profitFirmC: 0.0, profitFirmD

@@ -1,0 +1,366 @@
+2016-07-07 09:51:46,091 AWT-EventQueue-0 WARN  server.ContinuousCompetitionSubjectMatcherQuadropoly - loop index of subjectGroups 0
+2016-07-07 09:51:46,119 AWT-EventQueue-0 WARN  server.ContinuousCompetitionSubjectMatcherQuadropoly - loop index of subjectGroups 0
+2016-07-07 09:52:16,473 PeriodThread INFO  server.ContinuousCompetitionInstitution - Started ContinuousCompetitionInstitution for cohort 13 with diffParam = 0.6666666666666666
+2016-07-07 09:52:16,474 PeriodThread WARN  server.ContinuousCompetitionInstitution - startPeriod() - start of execution
+2016-07-07 09:52:16,474 PeriodThread INFO  server.ContinuousCompetitionInstitution - Initialized practice round action data.
+2016-07-07 09:52:16,477 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 0.0, aFirmB: 0.0, aFirmC: 0.0, aFirmD: 0.0, aMarket: 0.0.
+2016-07-07 09:52:16,477 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 100.0, oFirmB: 100.0, oFirmC: 100.0, oFirmD: 100.0.
+2016-07-07 09:52:16,477 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 0.0, profitFirmB: 0.0, profitFirmC: 0.0, profitFirmD: 0.0
+2016-07-07 09:52:16,477 PeriodThread INFO  server.ContinuousCompetitionInstitution - Action variables before initial market update: aFirmA: 0.0, aFirmB: 0.0, aFirmC: 0.0, aFirmD: 0.0.
+2016-07-07 09:52:16,478 PeriodThread INFO  server.ContinuousCompetitionInstitution - Profit variables before initial market update: profitFirmA: 0.0, profitFirmB: 0.0, profitFirmC: 0.0, profitFirmD: 0.0
+2016-07-07 09:52:16,478 PeriodThread INFO  server.ContinuousCompetitionInstitution - Balance variables before initial market update: balanceFirmA: 0.0, balanceFirmB: 0.0, balanceFirmC: 0.0, balanceFirmD: 0.0
+2016-07-07 09:52:18,764 PeriodThread INFO  server.ContinuousCompetitionInstitution - countPracticeFinished was updated to 1 (client agent_ns2). MembershipCount is set to 4.
+2016-07-07 09:52:18,787 PeriodThread INFO  server.ContinuousCompetitionInstitution - countPracticeFinished was updated to 2 (client agent_mo2). MembershipCount is set to 4.
+2016-07-07 09:52:18,862 PeriodThread INFO  server.ContinuousCompetitionInstitution - countPracticeFinished was updated to 3 (client agent_mo1). MembershipCount is set to 4.
+2016-07-07 09:52:19,157 PeriodThread INFO  server.ContinuousCompetitionInstitution - countPracticeFinished was updated to 4 (client agent_ns1). MembershipCount is set to 4.
+2016-07-07 09:52:23,164 PeriodThread WARN  server.ContinuousCompetitionInstitution - endPeriod()
+2016-07-07 09:52:23,194 PeriodThread INFO  server.ContinuousCompetitionInstitution - Started ContinuousCompetitionInstitution for cohort 14 with diffParam = 0.6666666666666666
+2016-07-07 09:52:23,194 PeriodThread WARN  server.ContinuousCompetitionInstitution - startPeriod() - start of execution
+2016-07-07 09:52:23,195 PeriodThread INFO  server.ContinuousCompetitionInstitution - Initialized regular round action data.
+2016-07-07 09:52:23,195 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 35.0, aFirmB: 40.0, aFirmC: 40.0, aFirmD: 35.0, aMarket: 37.5.
+2016-07-07 09:52:23,195 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 62.777777777777786, oFirmB: 62.22222222222223, oFirmC: 62.22222222222223, oFirmD: 62.777777777777786.
+2016-07-07 09:52:23,195 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 27.465277777777782, profitFirmB: 31.11111111111111, profitFirmC: 31.11111111111111, profitFirmD: 27.465277777777782
+2016-07-07 09:52:23,195 PeriodThread INFO  server.ContinuousCompetitionInstitution - Action variables before initial market update: aFirmA: 35.0, aFirmB: 40.0, aFirmC: 40.0, aFirmD: 35.0.
+2016-07-07 09:52:23,196 PeriodThread INFO  server.ContinuousCompetitionInstitution - Profit variables before initial market update: profitFirmA: 27.465277777777782, profitFirmB: 31.11111111111111, profitFirmC: 31.11111111111111, profitFirmD: 27.465277777777782
+2016-07-07 09:52:23,196 PeriodThread INFO  server.ContinuousCompetitionInstitution - Balance variables before initial market update: balanceFirmA: 0.0, balanceFirmB: 0.0, balanceFirmC: 0.0, balanceFirmD: 0.0
+2016-07-07 09:52:23,284 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received ready message from clientagent_ns2
+2016-07-07 09:52:23,284 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received ready message from clientagent_mo2
+2016-07-07 09:52:23,284 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received ready message from clientagent_mo1
+2016-07-07 09:52:23,295 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received ready message from clientagent_ns1
+2016-07-07 09:52:23,296 PeriodThread INFO  server.ContinuousCompetitionInstitution - All clients reported ready stated. Sending start signal
+2016-07-07 09:52:23,934 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 0 from client agent_mo1: Set aFirmC = 39.0
+2016-07-07 09:52:23,944 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 0 of cohort 14.
+2016-07-07 09:52:23,965 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 0 from client agent_ns2: Set aFirmA = 0.0
+2016-07-07 09:52:23,974 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 0 of cohort 14.
+2016-07-07 09:52:24,023 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 0 from client agent_mo2: Set aFirmB = 41.0
+2016-07-07 09:52:24,032 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 0 of cohort 14.
+2016-07-07 09:52:24,041 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 0 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:24,049 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 0 of cohort 14.
+2016-07-07 09:52:24,049 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 0.0, aFirmB: 41.0, aFirmC: 39.0, aFirmD: 50.0, aMarket: 32.5.
+2016-07-07 09:52:24,049 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 71.11111111111111, oFirmB: 66.55555555555556, oFirmC: 66.77777777777779, oFirmD: 65.55555555555556.
+2016-07-07 09:52:24,049 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 0.0, profitFirmB: 34.109722222222224, profitFirmC: 32.55416666666667, profitFirmD: 40.972222222222214
+2016-07-07 09:52:24,050 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.0, balanceFirmB: 0.005684953703703704, balanceFirmC: 0.005425694444444445, balanceFirmD: 0.006828703703703702
+2016-07-07 09:52:24,057 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 0 and to countId: 0.
+2016-07-07 09:52:24,072 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 0
+2016-07-07 09:52:24,436 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 1 from client agent_mo1: Set aFirmC = 44.0
+2016-07-07 09:52:24,444 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 1 of cohort 14.
+2016-07-07 09:52:24,466 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 1 from client agent_ns2: Set aFirmA = 20.0
+2016-07-07 09:52:24,474 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 1 of cohort 14.
+2016-07-07 09:52:24,524 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 1 from client agent_mo2: Set aFirmB = 42.0
+2016-07-07 09:52:24,535 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 1 of cohort 14.
+2016-07-07 09:52:24,546 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 1 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:24,555 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 1 of cohort 14.
+2016-07-07 09:52:24,555 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 20.0, aFirmB: 42.0, aFirmC: 44.0, aFirmD: 50.0, aMarket: 39.0.
+2016-07-07 09:52:24,556 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 63.111111111111114, oFirmB: 60.66666666666667, oFirmC: 60.44444444444445, oFirmD: 59.777777777777786.
+2016-07-07 09:52:24,556 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 15.777777777777775, profitFirmB: 31.85, profitFirmC: 33.24444444444445, profitFirmD: 37.36111111111111
+2016-07-07 09:52:24,556 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.0026296296296296293, balanceFirmB: 0.010993287037037038, balanceFirmC: 0.010966435185185187, balanceFirmD: 0.013055555555555553
+2016-07-07 09:52:24,563 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 500 and to countId: 1.
+2016-07-07 09:52:24,590 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 1
+2016-07-07 09:52:24,940 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 2 from client agent_mo1: Set aFirmC = 46.0
+2016-07-07 09:52:24,953 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 2 of cohort 14.
+2016-07-07 09:52:24,968 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 2 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:24,977 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 2 of cohort 14.
+2016-07-07 09:52:25,026 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 2 from client agent_mo2: Set aFirmB = 43.0
+2016-07-07 09:52:25,035 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 2 of cohort 14.
+2016-07-07 09:52:25,050 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 2 from client agent_ns1: Set aFirmD = 70.0
+2016-07-07 09:52:25,061 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 2 of cohort 14.
+2016-07-07 09:52:25,061 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 43.0, aFirmC: 46.0, aFirmD: 70.0, aMarket: 62.25.
+2016-07-07 09:52:25,061 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 34.66666666666667, oFirmB: 39.8888888888889, oFirmC: 39.55555555555557, oFirmD: 36.8888888888889.
+2016-07-07 09:52:25,062 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 39.00000000000001, profitFirmB: 21.440277777777784, profitFirmC: 22.74444444444445, profitFirmD: 32.277777777777786
+2016-07-07 09:52:25,062 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.00912962962962963, balanceFirmB: 0.014566666666666669, balanceFirmC: 0.014757175925925929, balanceFirmD: 0.018435185185185183
+2016-07-07 09:52:25,069 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 1000 and to countId: 2.
+2016-07-07 09:52:25,098 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 2
+2016-07-07 09:52:25,443 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 3 from client agent_mo1: Set aFirmC = 41.0
+2016-07-07 09:52:25,451 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 3 of cohort 14.
+2016-07-07 09:52:25,471 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 3 from client agent_ns2: Set aFirmA = 20.0
+2016-07-07 09:52:25,480 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 3 of cohort 14.
+2016-07-07 09:52:25,532 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 3 from client agent_mo2: Set aFirmB = 44.0
+2016-07-07 09:52:25,541 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 3 of cohort 14.
+2016-07-07 09:52:25,552 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 3 from client agent_ns1: Set aFirmD = 20.0
+2016-07-07 09:52:25,560 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 3 of cohort 14.
+2016-07-07 09:52:25,561 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 20.0, aFirmB: 44.0, aFirmC: 41.0, aFirmD: 20.0, aMarket: 31.25.
+2016-07-07 09:52:25,561 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 70.0, oFirmB: 67.33333333333334, oFirmC: 67.66666666666667, oFirmD: 70.0.
+2016-07-07 09:52:25,561 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 17.499999999999996, profitFirmB: 37.03333333333334, profitFirmC: 34.67916666666667, profitFirmD: 17.499999999999996
+2016-07-07 09:52:25,561 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.012046296296296296, balanceFirmB: 0.02073888888888889, balanceFirmC: 0.02053703703703704, balanceFirmD: 0.021351851851851848
+2016-07-07 09:52:25,568 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 1500 and to countId: 3.
+2016-07-07 09:52:25,600 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 3
+2016-07-07 09:52:25,947 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 4 from client agent_mo1: Set aFirmC = 47.0
+2016-07-07 09:52:25,956 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 4 of cohort 14.
+2016-07-07 09:52:25,973 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 4 from client agent_ns2: Set aFirmA = 20.0
+2016-07-07 09:52:25,982 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 4 of cohort 14.
+2016-07-07 09:52:26,034 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 4 from client agent_mo2: Set aFirmB = 43.0
+2016-07-07 09:52:26,043 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 4 of cohort 14.
+2016-07-07 09:52:26,057 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 4 from client agent_ns1: Set aFirmD = 70.0
+2016-07-07 09:52:26,068 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 4 of cohort 14.
+2016-07-07 09:52:26,068 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 20.0, aFirmB: 43.0, aFirmC: 47.0, aFirmD: 70.0, aMarket: 45.0.
+2016-07-07 09:52:26,068 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 57.777777777777786, oFirmB: 55.22222222222223, oFirmC: 54.777777777777786, oFirmD: 52.22222222222223.
+2016-07-07 09:52:26,069 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 14.444444444444445, profitFirmB: 29.681944444444447, profitFirmC: 32.18194444444445, profitFirmD: 45.69444444444445
+2016-07-07 09:52:26,069 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.014453703703703705, balanceFirmB: 0.02568587962962963, balanceFirmC: 0.02590069444444445, balanceFirmD: 0.02896759259259259
+2016-07-07 09:52:26,083 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 2000 and to countId: 4.
+2016-07-07 09:52:26,108 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 4
+2016-07-07 09:52:26,448 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 5 from client agent_mo1: Set aFirmC = 44.0
+2016-07-07 09:52:26,456 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 5 of cohort 14.
+2016-07-07 09:52:26,479 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 5 from client agent_ns2: Set aFirmA = 20.0
+2016-07-07 09:52:26,487 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 5 of cohort 14.
+2016-07-07 09:52:26,536 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 5 from client agent_mo2: Set aFirmB = 38.0
+2016-07-07 09:52:26,544 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 5 of cohort 14.
+2016-07-07 09:52:26,561 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 5 from client agent_ns1: Set aFirmD = 70.0
+2016-07-07 09:52:26,572 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 5 of cohort 14.
+2016-07-07 09:52:26,572 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 20.0, aFirmB: 38.0, aFirmC: 44.0, aFirmD: 70.0, aMarket: 43.0.
+2016-07-07 09:52:26,572 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 59.555555555555564, oFirmB: 57.55555555555556, oFirmC: 56.88888888888889, oFirmD: 54.0.
+2016-07-07 09:52:26,573 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 14.88888888888889, profitFirmB: 27.33888888888889, profitFirmC: 31.28888888888889, profitFirmD: 47.25
+2016-07-07 09:52:26,573 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.016935185185185185, balanceFirmB: 0.030242361111111112, balanceFirmC: 0.031115509259259263, balanceFirmD: 0.03684259259259259
+2016-07-07 09:52:26,580 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 2500 and to countId: 5.
+2016-07-07 09:52:26,636 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 5
+2016-07-07 09:52:26,951 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 6 from client agent_mo1: Set aFirmC = 45.0
+2016-07-07 09:52:26,959 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 6 of cohort 14.
+2016-07-07 09:52:26,980 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 6 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:26,989 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 6 of cohort 14.
+2016-07-07 09:52:27,038 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 6 from client agent_mo2: Set aFirmB = 37.0
+2016-07-07 09:52:27,046 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 6 of cohort 14.
+2016-07-07 09:52:27,065 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 6 from client agent_ns1: Set aFirmD = 10.0
+2016-07-07 09:52:27,079 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 6 of cohort 14.
+2016-07-07 09:52:27,080 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 80.0, aFirmB: 37.0, aFirmC: 45.0, aFirmD: 10.0, aMarket: 43.0.
+2016-07-07 09:52:27,080 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 52.88888888888889, oFirmB: 57.66666666666667, oFirmC: 56.77777777777778, oFirmD: 60.666666666666664.
+2016-07-07 09:52:27,081 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 52.88888888888889, profitFirmB: 26.67083333333333, profitFirmC: 31.937499999999996, profitFirmD: 7.583333333333332
+2016-07-07 09:52:27,081 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.025750000000000002, balanceFirmB: 0.0346875, balanceFirmC: 0.03643842592592593, balanceFirmD: 0.038106481481481484
+2016-07-07 09:52:27,090 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 3000 and to countId: 6.
+2016-07-07 09:52:27,115 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 6
+2016-07-07 09:52:27,456 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 7 from client agent_mo1: Set aFirmC = 46.0
+2016-07-07 09:52:27,464 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 7 of cohort 14.
+2016-07-07 09:52:27,485 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 7 from client agent_ns2: Set aFirmA = 30.0
+2016-07-07 09:52:27,498 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 7 of cohort 14.
+2016-07-07 09:52:27,539 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 7 from client agent_mo2: Set aFirmB = 40.0
+2016-07-07 09:52:27,550 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 7 of cohort 14.
+2016-07-07 09:52:27,568 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 7 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:27,579 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 7 of cohort 14.
+2016-07-07 09:52:27,579 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 30.0, aFirmB: 40.0, aFirmC: 46.0, aFirmD: 50.0, aMarket: 41.5.
+2016-07-07 09:52:27,579 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 59.777777777777786, oFirmB: 58.66666666666667, oFirmC: 58.0, oFirmD: 57.55555555555556.
+2016-07-07 09:52:27,580 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 22.416666666666668, profitFirmB: 29.33333333333333, profitFirmC: 33.349999999999994, profitFirmD: 35.972222222222214
+2016-07-07 09:52:27,581 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.029486111111111112, balanceFirmB: 0.03957638888888889, balanceFirmC: 0.04199675925925926, balanceFirmD: 0.04410185185185185
+2016-07-07 09:52:27,586 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 3500 and to countId: 7.
+2016-07-07 09:52:27,610 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 7
+2016-07-07 09:52:27,958 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 8 from client agent_mo1: Set aFirmC = 46.0
+2016-07-07 09:52:27,966 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 8 of cohort 14.
+2016-07-07 09:52:27,988 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 8 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:28,000 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 8 of cohort 14.
+2016-07-07 09:52:28,040 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 8 from client agent_mo2: Set aFirmB = 39.0
+2016-07-07 09:52:28,050 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 8 of cohort 14.
+2016-07-07 09:52:28,069 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 8 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:28,085 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 8 of cohort 14.
+2016-07-07 09:52:28,086 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 39.0, aFirmC: 46.0, aFirmD: 50.0, aMarket: 56.25.
+2016-07-07 09:52:28,087 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 40.0, oFirmB: 45.66666666666667, oFirmC: 44.8888888888889, oFirmD: 44.44444444444445.
+2016-07-07 09:52:28,087 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 45.0, profitFirmB: 22.262500000000003, profitFirmC: 25.811111111111114, profitFirmD: 27.77777777777778
+2016-07-07 09:52:28,088 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.03698611111111111, balanceFirmB: 0.04328680555555556, balanceFirmC: 0.04629861111111111, balanceFirmD: 0.04873148148148148
+2016-07-07 09:52:28,097 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 4000 and to countId: 8.
+2016-07-07 09:52:28,308 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 8
+2016-07-07 09:52:28,462 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 9 from client agent_mo1: Set aFirmC = 48.0
+2016-07-07 09:52:28,471 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 9 of cohort 14.
+2016-07-07 09:52:28,490 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 9 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:28,498 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 9 of cohort 14.
+2016-07-07 09:52:28,545 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 9 from client agent_mo2: Set aFirmB = 41.0
+2016-07-07 09:52:28,557 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 9 of cohort 14.
+2016-07-07 09:52:28,573 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 9 from client agent_ns1: Set aFirmD = 60.0
+2016-07-07 09:52:28,586 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 9 of cohort 14.
+2016-07-07 09:52:28,586 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 41.0, aFirmC: 48.0, aFirmD: 60.0, aMarket: 59.75.
+2016-07-07 09:52:28,587 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 36.88888888888889, oFirmB: 42.333333333333336, oFirmC: 41.55555555555556, oFirmD: 40.22222222222223.
+2016-07-07 09:52:28,587 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 41.5, profitFirmB: 21.695833333333333, profitFirmC: 24.933333333333334, profitFirmD: 30.16666666666667
+2016-07-07 09:52:28,587 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.04390277777777778, balanceFirmB: 0.04690277777777778, balanceFirmC: 0.05045416666666667, balanceFirmD: 0.05375925925925926
+2016-07-07 09:52:28,595 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 4500 and to countId: 9.
+2016-07-07 09:52:28,607 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 9
+2016-07-07 09:52:28,967 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 10 from client agent_mo1: Set aFirmC = 48.0
+2016-07-07 09:52:28,975 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 10 of cohort 14.
+2016-07-07 09:52:28,992 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 10 from client agent_ns2: Set aFirmA = 0.0
+2016-07-07 09:52:28,999 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 10 of cohort 14.
+2016-07-07 09:52:29,047 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 10 from client agent_mo2: Set aFirmB = 38.0
+2016-07-07 09:52:29,054 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 10 of cohort 14.
+2016-07-07 09:52:29,077 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 10 from client agent_ns1: Set aFirmD = 20.0
+2016-07-07 09:52:29,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 10 of cohort 14.
+2016-07-07 09:52:29,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 0.0, aFirmB: 38.0, aFirmC: 48.0, aFirmD: 20.0, aMarket: 26.5.
+2016-07-07 09:52:29,093 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 76.44444444444446, oFirmB: 72.22222222222223, oFirmC: 71.11111111111111, oFirmD: 74.22222222222223.
+2016-07-07 09:52:29,093 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 0.0, profitFirmB: 34.30555555555556, profitFirmC: 42.666666666666664, profitFirmD: 18.555555555555557
+2016-07-07 09:52:29,093 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.04390277777777778, balanceFirmB: 0.05262037037037037, balanceFirmC: 0.05756527777777778, balanceFirmD: 0.05685185185185185
+2016-07-07 09:52:29,101 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 5000 and to countId: 10.
+2016-07-07 09:52:29,131 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 10
+2016-07-07 09:52:29,470 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 11 from client agent_mo1: Set aFirmC = 48.0
+2016-07-07 09:52:29,478 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 11 of cohort 14.
+2016-07-07 09:52:29,500 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 11 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:29,508 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 11 of cohort 14.
+2016-07-07 09:52:29,552 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 11 from client agent_mo2: Set aFirmB = 35.0
+2016-07-07 09:52:29,560 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 11 of cohort 14.
+2016-07-07 09:52:29,578 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 11 from client agent_ns1: Set aFirmD = 90.0
+2016-07-07 09:52:29,585 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 11 of cohort 14.
+2016-07-07 09:52:29,585 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 35.0, aFirmC: 48.0, aFirmD: 90.0, aMarket: 65.75.
+2016-07-07 09:52:29,585 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 31.555555555555557, oFirmB: 37.66666666666667, oFirmC: 36.22222222222223, oFirmD: 31.555555555555557.
+2016-07-07 09:52:29,585 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 35.5, profitFirmB: 16.479166666666668, profitFirmC: 21.733333333333338, profitFirmD: 35.5
+2016-07-07 09:52:29,585 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.049819444444444444, balanceFirmB: 0.05536689814814815, balanceFirmC: 0.0611875, balanceFirmD: 0.06276851851851852
+2016-07-07 09:52:29,591 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 5500 and to countId: 11.
+2016-07-07 09:52:29,614 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 11
+2016-07-07 09:52:29,972 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 12 from client agent_mo1: Set aFirmC = 51.0
+2016-07-07 09:52:29,980 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 12 of cohort 14.
+2016-07-07 09:52:30,002 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 12 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:30,009 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 12 of cohort 14.
+2016-07-07 09:52:30,053 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 12 from client agent_mo2: Set aFirmB = 35.0
+2016-07-07 09:52:30,060 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 12 of cohort 14.
+2016-07-07 09:52:30,078 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 12 from client agent_ns1: Set aFirmD = 60.0
+2016-07-07 09:52:30,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 12 of cohort 14.
+2016-07-07 09:52:30,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 35.0, aFirmC: 51.0, aFirmD: 60.0, aMarket: 59.0.
+2016-07-07 09:52:30,093 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 37.55555555555556, oFirmB: 43.66666666666667, oFirmC: 41.88888888888889, oFirmD: 40.88888888888889.
+2016-07-07 09:52:30,093 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 42.25, profitFirmB: 19.104166666666668, profitFirmC: 26.70416666666667, profitFirmD: 30.666666666666668
+2016-07-07 09:52:30,093 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.05686111111111111, balanceFirmB: 0.05855092592592593, balanceFirmC: 0.06563819444444444, balanceFirmD: 0.06787962962962962
+2016-07-07 09:52:30,101 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 6000 and to countId: 12.
+2016-07-07 09:52:30,120 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 12
+2016-07-07 09:52:30,473 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 13 from client agent_mo1: Set aFirmC = 45.0
+2016-07-07 09:52:30,482 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 13 of cohort 14.
+2016-07-07 09:52:30,503 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 13 from client agent_ns2: Set aFirmA = 40.0
+2016-07-07 09:52:30,513 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 13 of cohort 14.
+2016-07-07 09:52:30,557 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 13 from client agent_mo2: Set aFirmB = 39.0
+2016-07-07 09:52:30,565 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 13 of cohort 14.
+2016-07-07 09:52:30,581 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 13 from client agent_ns1: Set aFirmD = 0.0
+2016-07-07 09:52:30,589 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 13 of cohort 14.
+2016-07-07 09:52:30,589 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 40.0, aFirmB: 39.0, aFirmC: 45.0, aFirmD: 0.0, aMarket: 31.0.
+2016-07-07 09:52:30,589 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 68.0, oFirmB: 68.11111111111111, oFirmC: 67.44444444444444, oFirmD: 72.44444444444446.
+2016-07-07 09:52:30,589 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 34.0, profitFirmB: 33.204166666666666, profitFirmC: 37.9375, profitFirmD: 0.0
+2016-07-07 09:52:30,590 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.06252777777777778, balanceFirmB: 0.0640849537037037, balanceFirmC: 0.0719611111111111, balanceFirmD: 0.06787962962962962
+2016-07-07 09:52:30,598 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 6500 and to countId: 13.
+2016-07-07 09:52:30,622 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 13
+2016-07-07 09:52:30,976 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 14 from client agent_mo1: Set aFirmC = 46.0
+2016-07-07 09:52:30,983 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 14 of cohort 14.
+2016-07-07 09:52:31,006 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 14 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:31,014 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 14 of cohort 14.
+2016-07-07 09:52:31,062 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 14 from client agent_mo2: Set aFirmB = 39.0
+2016-07-07 09:52:31,070 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 14 of cohort 14.
+2016-07-07 09:52:31,082 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 14 from client agent_ns1: Set aFirmD = 90.0
+2016-07-07 09:52:31,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 14 of cohort 14.
+2016-07-07 09:52:31,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 80.0, aFirmB: 39.0, aFirmC: 46.0, aFirmD: 90.0, aMarket: 63.75.
+2016-07-07 09:52:31,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 34.44444444444446, oFirmB: 39.0, oFirmC: 38.22222222222223, oFirmD: 33.33333333333334.
+2016-07-07 09:52:31,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 34.44444444444446, profitFirmB: 19.0125, profitFirmC: 21.977777777777778, profitFirmD: 37.50000000000001
+2016-07-07 09:52:31,092 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.06826851851851852, balanceFirmB: 0.0672537037037037, balanceFirmC: 0.07562407407407407, balanceFirmD: 0.07412962962962963
+2016-07-07 09:52:31,097 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 7000 and to countId: 14.
+2016-07-07 09:52:31,127 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 14
+2016-07-07 09:52:31,479 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 15 from client agent_mo1: Set aFirmC = 48.0
+2016-07-07 09:52:31,490 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 15 of cohort 14.
+2016-07-07 09:52:31,510 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 15 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:31,518 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 15 of cohort 14.
+2016-07-07 09:52:31,564 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 15 from client agent_mo2: Set aFirmB = 44.0
+2016-07-07 09:52:31,571 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 15 of cohort 14.
+2016-07-07 09:52:31,583 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 15 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:31,590 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 15 of cohort 14.
+2016-07-07 09:52:31,591 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 44.0, aFirmC: 48.0, aFirmD: 50.0, aMarket: 58.0.
+2016-07-07 09:52:31,591 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 38.44444444444445, oFirmB: 43.555555555555564, oFirmC: 43.111111111111114, oFirmD: 42.88888888888889.
+2016-07-07 09:52:31,591 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 43.25000000000001, profitFirmB: 23.95555555555556, profitFirmC: 25.866666666666667, profitFirmD: 26.805555555555554
+2016-07-07 09:52:31,591 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.07547685185185185, balanceFirmB: 0.0712462962962963, balanceFirmC: 0.07993518518518518, balanceFirmD: 0.07859722222222222
+2016-07-07 09:52:31,596 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 7500 and to countId: 15.
+2016-07-07 09:52:31,637 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 15
+2016-07-07 09:52:31,979 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 16 from client agent_mo1: Set aFirmC = 51.0
+2016-07-07 09:52:31,988 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 16 of cohort 14.
+2016-07-07 09:52:32,014 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 16 from client agent_ns2: Set aFirmA = 90.0
+2016-07-07 09:52:32,023 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 16 of cohort 14.
+2016-07-07 09:52:32,065 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 16 from client agent_mo2: Set aFirmB = 41.0
+2016-07-07 09:52:32,072 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 16 of cohort 14.
+2016-07-07 09:52:32,085 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 16 from client agent_ns1: Set aFirmD = 20.0
+2016-07-07 09:52:32,094 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 16 of cohort 14.
+2016-07-07 09:52:32,095 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 90.0, aFirmB: 41.0, aFirmC: 51.0, aFirmD: 20.0, aMarket: 50.5.
+2016-07-07 09:52:32,095 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 45.111111111111114, oFirmB: 50.555555555555564, oFirmC: 49.44444444444445, oFirmD: 52.88888888888889.
+2016-07-07 09:52:32,095 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 50.75000000000001, profitFirmB: 25.909722222222225, profitFirmC: 31.520833333333336, profitFirmD: 13.222222222222223
+2016-07-07 09:52:32,096 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.08393518518518518, balanceFirmB: 0.07556458333333332, balanceFirmC: 0.0851886574074074, balanceFirmD: 0.08080092592592593
+2016-07-07 09:52:32,103 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 8000 and to countId: 16.
+2016-07-07 09:52:32,128 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 16
+2016-07-07 09:52:32,482 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 17 from client agent_mo1: Set aFirmC = 50.0
+2016-07-07 09:52:32,489 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 17 of cohort 14.
+2016-07-07 09:52:32,518 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 17 from client agent_ns2: Set aFirmA = 50.0
+2016-07-07 09:52:32,526 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 17 of cohort 14.
+2016-07-07 09:52:32,571 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 17 from client agent_mo2: Set aFirmB = 39.0
+2016-07-07 09:52:32,580 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 17 of cohort 14.
+2016-07-07 09:52:32,589 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 17 from client agent_ns1: Set aFirmD = 20.0
+2016-07-07 09:52:32,596 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 17 of cohort 14.
+2016-07-07 09:52:32,597 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 50.0, aFirmB: 39.0, aFirmC: 50.0, aFirmD: 20.0, aMarket: 39.75.
+2016-07-07 09:52:32,597 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 59.111111111111114, oFirmB: 60.33333333333334, oFirmC: 59.111111111111114, oFirmD: 62.44444444444445.
+2016-07-07 09:52:32,598 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 36.94444444444444, profitFirmB: 29.412500000000005, profitFirmC: 36.94444444444444, profitFirmD: 15.61111111111111
+2016-07-07 09:52:32,598 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.09009259259259259, balanceFirmB: 0.08046666666666666, balanceFirmC: 0.0913460648148148, balanceFirmD: 0.08340277777777778
+2016-07-07 09:52:32,604 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 8500 and to countId: 17.
+2016-07-07 09:52:32,749 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 17
+2016-07-07 09:52:32,987 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 18 from client agent_mo1: Set aFirmC = 54.0
+2016-07-07 09:52:32,995 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 18 of cohort 14.
+2016-07-07 09:52:33,022 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 18 from client agent_ns2: Set aFirmA = 20.0
+2016-07-07 09:52:33,030 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 18 of cohort 14.
+2016-07-07 09:52:33,076 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 18 from client agent_mo2: Set aFirmB = 41.0
+2016-07-07 09:52:33,089 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 18 of cohort 14.
+2016-07-07 09:52:33,090 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 18 from client agent_ns1: Set aFirmD = 70.0
+2016-07-07 09:52:33,100 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 18 of cohort 14.
+2016-07-07 09:52:33,100 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 20.0, aFirmB: 41.0, aFirmC: 54.0, aFirmD: 70.0, aMarket: 46.25.
+2016-07-07 09:52:33,100 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 56.66666666666667, oFirmB: 54.333333333333336, oFirmC: 52.88888888888889, oFirmD: 51.111111111111114.
+2016-07-07 09:52:33,101 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 14.166666666666666, profitFirmB: 27.84583333333333, profitFirmC: 35.7, profitFirmD: 44.72222222222222
+2016-07-07 09:52:33,101 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.09245370370370369, balanceFirmB: 0.08510763888888888, balanceFirmC: 0.0972960648148148, balanceFirmD: 0.09085648148148148
+2016-07-07 09:52:33,107 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 9000 and to countId: 18.
+2016-07-07 09:52:33,148 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 18
+2016-07-07 09:52:33,490 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 19 from client agent_mo1: Set aFirmC = 50.0
+2016-07-07 09:52:33,497 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 19 of cohort 14.
+2016-07-07 09:52:33,525 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 19 from client agent_ns2: Set aFirmA = 0.0
+2016-07-07 09:52:33,532 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 19 of cohort 14.
+2016-07-07 09:52:33,579 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 19 from client agent_mo2: Set aFirmB = 45.0
+2016-07-07 09:52:33,587 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 19 of cohort 14.
+2016-07-07 09:52:33,593 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 19 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:33,600 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 19 of cohort 14.
+2016-07-07 09:52:33,601 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 0.0, aFirmB: 45.0, aFirmC: 50.0, aFirmD: 50.0, aMarket: 36.25.
+2016-07-07 09:52:33,601 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 67.77777777777779, oFirmB: 62.777777777777786, oFirmC: 62.22222222222223, oFirmD: 62.22222222222223.
+2016-07-07 09:52:33,601 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 0.0, profitFirmB: 35.3125, profitFirmC: 38.888888888888886, profitFirmD: 38.888888888888886
+2016-07-07 09:52:33,601 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.09245370370370369, balanceFirmB: 0.09099305555555555, balanceFirmC: 0.10377754629629628, balanceFirmD: 0.09733796296296296
+2016-07-07 09:52:33,606 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 9500 and to countId: 19.
+2016-07-07 09:52:33,622 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 19
+2016-07-07 09:52:33,992 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 20 from client agent_mo1: Set aFirmC = 49.0
+2016-07-07 09:52:33,998 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 20 of cohort 14.
+2016-07-07 09:52:34,030 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 20 from client agent_ns2: Set aFirmA = 30.0
+2016-07-07 09:52:34,037 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 20 of cohort 14.
+2016-07-07 09:52:34,080 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 20 from client agent_mo2: Set aFirmB = 48.0
+2016-07-07 09:52:34,091 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 20 of cohort 14.
+2016-07-07 09:52:34,095 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 20 from client agent_ns1: Set aFirmD = 30.0
+2016-07-07 09:52:34,102 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 4 of 4 with countId 20 of cohort 14.
+2016-07-07 09:52:34,102 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: actions - aFirmA: 30.0, aFirmB: 48.0, aFirmC: 49.0, aFirmD: 30.0, aMarket: 39.25.
+2016-07-07 09:52:34,103 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: outputs - oFirmA: 61.777777777777786, oFirmB: 59.777777777777786, oFirmC: 59.66666666666667, oFirmD: 61.777777777777786.
+2016-07-07 09:52:34,103 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: profits - profitFirmA: 23.166666666666668, profitFirmB: 35.86666666666667, profitFirmC: 36.545833333333334, profitFirmD: 23.166666666666668
+2016-07-07 09:52:34,103 PeriodThread INFO  server.ContinuousCompetitionInstitution - After calculation of market data: payoffs - balanceFirmA: 0.0963148148148148, balanceFirmB: 0.09697083333333333, balanceFirmC: 0.1098685185185185, balanceFirmD: 0.10119907407407407
+2016-07-07 09:52:34,107 PeriodThread INFO  server.ContinuousCompetitionInstitution - Created marketUpdate is set to global time: 10000 and to countId: 20.
+2016-07-07 09:52:34,170 PeriodThread INFO  server.ContinuousCompetitionInstitution - processMessage() - end of execution - processed actionUpdate with countId 20
+2016-07-07 09:52:34,536 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 21 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:34,548 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 21 of cohort 14.
+2016-07-07 09:52:34,581 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 21 from client agent_mo2: Set aFirmB = 47.0
+2016-07-07 09:52:34,594 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 21 of cohort 14.
+2016-07-07 09:52:34,599 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 21 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:34,607 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 21 of cohort 14.
+2016-07-07 09:52:35,039 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 22 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:35,047 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 22 of cohort 14.
+2016-07-07 09:52:35,083 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 22 from client agent_mo2: Set aFirmB = 47.0
+2016-07-07 09:52:35,095 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 22 of cohort 14.
+2016-07-07 09:52:35,103 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 22 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:35,112 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 22 of cohort 14.
+2016-07-07 09:52:35,544 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 23 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:35,554 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 23 of cohort 14.
+2016-07-07 09:52:35,587 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 23 from client agent_mo2: Set aFirmB = 47.0
+2016-07-07 09:52:35,594 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 23 of cohort 14.
+2016-07-07 09:52:35,607 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 23 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:35,615 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 3 of 4 with countId 23 of cohort 14.
+2016-07-07 09:52:36,047 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 24 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:36,054 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 24 of cohort 14.
+2016-07-07 09:52:36,112 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 24 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:36,119 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 24 of cohort 14.
+2016-07-07 09:52:36,553 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 25 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:36,562 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 25 of cohort 14.
+2016-07-07 09:52:36,616 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 25 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:36,624 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 25 of cohort 14.
+2016-07-07 09:52:37,055 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 26 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:37,063 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 26 of cohort 14.
+2016-07-07 09:52:37,118 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 26 from client agent_ns1: Set aFirmD = 50.0
+2016-07-07 09:52:37,125 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 2 of 4 with countId 26 of cohort 14.
+2016-07-07 09:52:37,555 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 27 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:37,564 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 27 of cohort 14.
+2016-07-07 09:52:38,058 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 28 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:38,065 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 28 of cohort 14.
+2016-07-07 09:52:38,563 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 29 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:38,585 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 29 of cohort 14.
+2016-07-07 09:52:39,067 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 30 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:39,079 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 30 of cohort 14.
+2016-07-07 09:52:39,569 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 31 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:39,578 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 31 of cohort 14.
+2016-07-07 09:52:40,073 PeriodThread INFO  server.ContinuousCompetitionInstitution - Receiving actionUpdate with countId 32 from client agent_ns2: Set aFirmA = 80.0
+2016-07-07 09:52:40,085 PeriodThread INFO  server.ContinuousCompetitionInstitution - Received actionUpdate is number 1 of 4 with countId 32 of cohort 14.
